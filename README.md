@@ -1,3 +1,5 @@
+## Repository updated with plotx.R and plotx.png files - GD - 7/9/14
+
 ## Introduction
 
 This assignment uses data from
